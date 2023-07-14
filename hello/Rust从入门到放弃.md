@@ -52,3 +52,13 @@ $ cargo check
 ```ruby
 
 ```
+
+let、match、方法、关联函数，以及外部包的使用
+
+expect
+
+Result
+
+cmp
+
+Ordering
